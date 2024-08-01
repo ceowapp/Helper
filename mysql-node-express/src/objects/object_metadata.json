@@ -1,0 +1,10 @@
+{
+  "name": ""----name of uploaded file,
+  "objId": ""-----might tokenize,
+  "size":
+  "format":
+  "owner": ""-----inherit from userID,
+   "task": -----inherit from taskID,
+  "date": 
+  "shareWith": ""-----collect from user selection
+}

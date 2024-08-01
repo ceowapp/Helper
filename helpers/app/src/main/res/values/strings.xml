@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">helpers</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+    <string name="sign_in_cancelled">Sign-in was canceled.</string>
+    <string name="enter_task_descr"> Enter task description</string>
+    <string name="launch"> Find Helper</string>
+    <string name="no_internet_connection"> No Internet Connection.</string>
+    <string name="unknown_error"> Unknown Error.</string>
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+    </string-array>
+
+</resources>
+

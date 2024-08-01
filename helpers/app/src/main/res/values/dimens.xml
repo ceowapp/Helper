@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttonWidth">250</dimen>
+    <dimen name="button_width">200</dimen>
+    <dimen name="main_button_width">100</dimen>
+    <dimen name="buttonHeight">50</dimen>
+    <dimen name="buttonHeight01">80</dimen>
+    <dimen name="dropdownHeight">50</dimen>
+</resources>
